@@ -1,0 +1,3 @@
+Client John Salary: 1700.000000 Income: 1700.000000
+Wealthy client Clarice Salary: 2000.000000 Income: 3500.000000 Extra money: 1500.000000
+Wealthy client Don Salary: 2300.000000 Income: 4300.000000 Extra money: 2000.000000
